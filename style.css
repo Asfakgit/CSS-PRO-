@@ -1,0 +1,36 @@
+img {
+  height: 200px;
+  width: 200px;
+}
+body{
+  background-color: antiquewhite;
+}
+
+.color-title {
+  font-weight: normal;
+}
+
+#red {
+  background-color: aqua;
+  color: red;
+}
+
+#blue {
+  color: blue;
+  background-color: aquamarine;
+}
+
+#orange {
+  color: orange;
+  background-color: blue;
+}
+
+#green {
+  color: green;
+  background-color: rgb(234, 226, 241);
+}
+
+#yellow {
+  color: yellow;
+  background-color: brown;
+}
